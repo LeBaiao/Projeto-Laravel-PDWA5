@@ -1,0 +1,60 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<data>
+	<item>
+		<tipo>luva de boxe</tipo>
+		<material>couro</material>
+		<data_fabricacao>2021-10-02</data_fabricacao>
+		<peso>0.45</peso>
+		<novo>true</novo>
+		<cor>vermelho</cor>
+	</item>
+	<item>
+		<tipo>rede de volei</tipo>
+		<material>plastico</material>
+		<data_fabricacao>2021-01-22</data_fabricacao>
+		<peso>0.2</peso>
+		<novo>true</novo>
+		<cor>branca</cor>
+	</item>
+	<item>
+		<tipo>Raquete de ping pong</tipo>
+		<material>madeira</material>
+		<data_fabricacao>2024-06-23</data_fabricacao>
+		<peso>0.3</peso>
+		<novo>true</novo>
+		<cor>azul</cor>
+	</item>
+	<item>
+		<tipo>Raquete de Tênis</tipo>
+		<material>Couro Sintético</material>
+		<data_fabricacao>2022-02-11</data_fabricacao>
+		<peso>0.4</peso>
+		<novo>true</novo>
+		<cor>Branca e preta</cor>
+	</item>
+	<item>
+		<tipo>Prancha de Surf</tipo>
+		<material>Fibra de vidro e espuma EPS</material>
+		<data_fabricacao>2024-06-26</data_fabricacao>
+		<peso>2.5</peso>
+		<novo>true</novo>
+		<cor>Verde e Branca</cor>
+	</item>
+	<item>
+		<tipo>Bola de Basquete</tipo>
+		<material>Borracha</material>
+		<data_fabricacao>2024-06-20</data_fabricacao>
+		<peso>0.6</peso>
+		<novo>true</novo>
+		<cor>Laranja e Preta</cor>
+	</item>
+	<item>
+		<tipo>Caneleira de Futebol</tipo>
+		<material>Plástico com revestimento em espuma</material>
+		<data_fabricacao>2024-06-01</data_fabricacao>
+		<peso>0.3</peso>
+		<novo>true</novo>
+		<cor>Preto</cor>
+	</item>
+</data>
